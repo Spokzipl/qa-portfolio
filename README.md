@@ -1,1 +1,1 @@
-# qa-portfolio
+# QUALITY ASSURANCE PORTFOLIO
